@@ -4,11 +4,13 @@ const sobreSkill = [
                     '<p>HTML</p> <br> <p>É uma linguagem de marcação utilizada na construção de páginas na Web.</p> <br>',
                     '<p>CSS</p> <br> <p>É um mecanismo para adicionar estilo a um documento web.</p> <br>',
                     '<p>JavaScript</p> <br> <p>É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias da web.</p> <br>',
-                    '<p>C#</p> <br> <p>.</p> <br>',
+                    '<p>C#</p> <br> <p>Um dos grandes trunfos da linguagem C# e do . NET Core é a sua versatilidade. Com ela você pode escrever e criar aplicações desktop, web, serviços backend, aplicações mobiles multiplataformas.</p> <br>',
                     '<p>Styled Components</p> <br> <p>É uma biblioteca (lib) que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript.</p> <br>',
                     '<p>Sass</p> <br> <p>É uma linguagem de folhas de estilo. Basicamente o Sass potencializa o CSS.</p> <br>',
                     '<p>Git</p> <br> <p>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</p> <br>',
-                    '<p>Github</p> <br> <p>É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. </p> <br>'
+                    '<p>Github</p> <br> <p>É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. </p> <br>',
+                    '<p>PHP</p> <br> <p>é uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o desenvolvimento web e que pode ser embutida dentro do HTML. </p> <br>',
+                    '<p>UNITY</p> <br> <p>é uma game engine muito usada para jogos 2d e 3d, sendo usado C# como seu script comum </p> <br>'
 ]
 const dataInicio = [
                     (new Date(2021, 10, 1)).getTime(), // 0
